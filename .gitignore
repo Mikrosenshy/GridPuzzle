@@ -1,0 +1,12 @@
+# Godot 4.x Import-Cache & temporäre Dateien (sehr wichtig!)
+.godot/
+
+# Exportierte Builds & Pakete
+android/
+*.apk
+*.x86_64
+*.exe
+*.zip
+
+# Lokale Editor-Einstellungen
+.import/
